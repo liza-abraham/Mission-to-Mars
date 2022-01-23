@@ -1,3 +1,3 @@
 # Mission-to-Mars
 
-Diverse websites are scrapes then conglomerated in one html re: weather conditions on Mars. 
+Diverse websites are scraped then conglomerated in one html re: weather conditions on Mars. 
